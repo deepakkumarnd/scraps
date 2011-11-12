@@ -1,0 +1,12 @@
+== scraps
+
+Scraps is a project intended for personal reuse of code that we use day to day
+basis. Here the written code has many intentions. The code written here can be
+used in any ruby project. The whole idea is to create a high standard codebase
+which improves your efficiency in coding. You can just refer the code or reuse
+the code.
+
+The code should be able to meet the latest ruby language standards.
+The code should be documented properly.
+The code should solve the problems in a general way.
+
