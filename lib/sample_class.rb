@@ -9,3 +9,20 @@ class SampleClass
     
   end
 end
+
+
+class MyClass; end
+
+
+
+
+# adding new features to class
+
+class MyClass
+  def mymethod
+    puts "mymethod"
+  end
+end
+
+obj = MyClass.new
+obj.instance_variable_set("@x" , 10)

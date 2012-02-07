@@ -3,8 +3,8 @@
 # deleting a node
 # inserting a node
 # search dfs, nfs
-# shortest path between two nodes
-# 
+# shortest path between two nodes.
+#
 
 module Graph
 

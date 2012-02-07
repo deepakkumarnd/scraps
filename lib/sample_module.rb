@@ -6,5 +6,18 @@
 
 
 module SampleModule
-    
+
+    module NestedModule
+      ConstantInsideModule = 4
+      SampleModule::ClassInsideModule::ConstantInsideClass
+      Module.nesting
+    end
+
+    class ClassInsideModule
+       ConstantInsideClass = 10
+       module ModuleInsideClass
+         X = 10
+       end
+    end
+
 end
