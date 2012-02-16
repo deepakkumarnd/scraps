@@ -1,0 +1,2 @@
+require "./spell_checker"
+require "resque/tasks"
